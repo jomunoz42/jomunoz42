@@ -7,10 +7,11 @@ Software developer student at 42 Lisboa focused on systems programming, backend 
 ## 🚀 About Me
 
 - 🎓 Student at 42 Lisboa
-- 🐧 Strong interest in Unix/Linux systems
 - ⚙️ Building automation pipelines used in real operational environments
-- 🧠 Interested in backend, infrastructure, and systems programming
+- 🧠 Interested in backend, automation and systems programming
 - 🔧 Passionate about problem solving and practical software engineering
+- 🌍 Portuguese / English / Spanish
+- 🏃 Running ⛰️ Trail Running
 
 ---
 
@@ -30,5 +31,7 @@ Software developer student at 42 Lisboa focused on systems programming, backend 
 - Bash
 
 ---
+
+## 🛠 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,ts,linux,bash,git)](https://skillicons.dev)
