@@ -2,14 +2,6 @@
 
 Software developer student at 42 Lisboa focused on systems programming, backend development, automation, and Unix environments.
 
-Currently working mainly with:
-- C / C++
-- Python
-- Linux
-- Selenium automation
-- Low-level systems concepts
-- Process/thread management
-
 ---
 
 ## 🚀 About Me
@@ -28,6 +20,7 @@ Currently working mainly with:
 - C
 - C++
 - Python
+- TypeScript
 
 ### Systems & Tools
 - Linux
@@ -36,19 +29,6 @@ Currently working mainly with:
 - openpyxl
 - Bash
 
-### Concepts
-- Memory management
-- Processes & threads
-- Synchronization
-- Parsing
-- Automation pipelines
-
 ---
 
-## 📚 Current Focus
-
-- Systems programming
-- Backend development
-- Concurrency
-- Software reliability
-- Infrastructure-oriented engineering
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,ts,linux,bash,git)](https://skillicons.dev)
