@@ -18,4 +18,4 @@ Software developer student at 42 Lisboa passionate about systems programming, au
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,ts,linux,bash,git)](https://skillicons.dev)
 
-🐧 Linux • Bash • Selenium • openpyxl • Git
+⚙️ Selenium • openpyxl
